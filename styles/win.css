@@ -1,0 +1,17 @@
+div {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: monospace;
+  padding: 20px 0px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+button {
+  font-size: 20px;
+  border-radius: 10px;
+}
